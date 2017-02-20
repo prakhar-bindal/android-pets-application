@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_481f155ead1030ec8c2e8114629d1b226eaa2f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0944f9cc1111112d1995d4e4a3c7a3880ad03cde">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1da5b3d55ba58f66455a2118fc3231b02cc5c9e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_4dd8ab0a4cbaa6b37a78c7528fc93af9c235707c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_a143e518db08727bad1e37bff97f10ba353dd64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_e53e878a9d21b73770f559f80153646710a8d1e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="330cb817383262f65910cb3db6c4005a2ca40cad">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15a4904e86b015d083d9bd63c800b8095b51ed74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_5035508bfd04519fae9ce762e896d7dd2b3b594e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_6ed922f6dc53923c7d388ca115fe96bd3bae3bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_ca9e1661fb9cb3d4215a7cbfda90781064a297f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/prakhar/AndroidStudioProjects/ud845-Pets-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_7d14d90ad70e6f15efa0b5eb49319a6f6c9fd6a5/classes.dex" />
+    </item>
+
+</items>
